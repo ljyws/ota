@@ -1,0 +1,27 @@
+Added Component: Designator=J2(CONN-SMD_4P-P1.25_X1251WRS-04HF-LPSW)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J3(CONN-SMD_4P-P1.25_X1251WRS-04HF-LPSW)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J4(CONN-SMD_4P-P1.25_X1251WRS-04HF-LPSW)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC_3V3 Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=VCC_5V Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=VCC_5V Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=SWCLK Pin=J2-3
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=J2-4
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=UART1_R Pin=J3-3
+Added Net: Name=UART1_R
+Added Pin To Net: NetName=UART1_T Pin=J3-4
+Added Net: Name=UART1_T
+Added Pin To Net: NetName=UART3_R Pin=J4-3
+Added Net: Name=UART3_R
+Added Pin To Net: NetName=UART3_T Pin=J4-4
+Added Net: Name=UART3_T
+Added Member To Class: ClassName=main Member=Component J2 GH1.25-W-4P
+Added Member To Class: ClassName=main Member=Component J3 GH1.25-W-4P
+Added Member To Class: ClassName=main Member=Component J4 GH1.25-W-4P
