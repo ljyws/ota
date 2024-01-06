@@ -34,6 +34,10 @@
 ".\objects\gd32f4xx_wwdgt.o"
 ".\objects\system_gd32f4xx.o"
 ".\objects\startup_gd32f405_425.o"
+".\objects\drv_gpio.o"
+".\objects\drv_led.o"
+".\objects\bsp_gpio.o"
+".\objects\bsp_led_1.o"
 --strict --scatter ".\Objects\software.sct"
 --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
 --info sizes --info totals --info unused --info veneers

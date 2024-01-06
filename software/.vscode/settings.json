@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "bsp_led.h": "c",
+        "gd32f4xx_gpio.h": "c",
+        "bsp_gpio.h": "c"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/app/inc",
+                "${workspaceFolder}/bsp/inc",
+                "${workspaceFolder}/driver/src",
+                "${workspaceFolder}/core/src",
+                "${workspaceFolder}/periph/CMSIS",
+                "${workspaceFolder}/periph/CMSIS/GD/GD32F4xx/Include",
+                "${workspaceFolder}/periph/GD32F4xx_standard_peripheral/inc"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "USE_HAL_DRIVER",
+                "STM32F407xx"
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "windows-gcc-x86"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,15 @@
+*** Using Compiler 'V6.19', folder: 'E:\keil\installFile\ARM\ARMCLANG\Bin'
+Build target 'software'
+Note: source file '..\bsp\src\bsp_led.c' - object file renamed from '.\Objects\bsp_led.o' to '.\Objects\bsp_led_1.o'.Note: source file '..\bsp\src\bsp_led.c' - object file renamed from '.\Objects\bsp_led.o' to '.\Objects\bsp_led_1.o'.../bsp/src/bsp_led.c(1): error: 'bsp_led.h' file not found
+#include "bsp_led.h"
+         ^~~~~~~~~~~
+1 error generated.
+compiling bsp_led.c...
+../bsp/src/bsp_led.c(1): error: 'bsp_led.h' file not found
+#include "bsp_led.h"
+         ^~~~~~~~~~~
+1 error generated.
+compiling bsp_led.c...
+".\Objects\software.axf" - 2 Error(s), 0 Warning(s).
+Target not created.
+Build Time Elapsed:  00:00:01

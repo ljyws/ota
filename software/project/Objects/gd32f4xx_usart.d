@@ -3,11 +3,11 @@
   ..\periph\GD32F4xx_standard_peripheral\inc\gd32f4xx_usart.h \
   ..\periph\CMSIS\GD\GD32F4xx\Include\gd32f4xx.h \
   ..\periph\CMSIS\core_cm4.h \
-  F:\Keil_MDK\InstallFile\ARM\ARMCLANG\Bin\..\include\stdint.h \
+  E:\keil\installFile\ARM\ARMCLANG\Bin\..\include\stdint.h \
   ..\periph\CMSIS\cmsis_version.h ..\periph\CMSIS\cmsis_compiler.h \
   ..\periph\CMSIS\cmsis_armclang.h \
-  F:\Keil_MDK\InstallFile\ARM\ARMCLANG\Bin\..\include\arm_compat.h \
-  F:\Keil_MDK\InstallFile\ARM\ARMCLANG\Bin\..\include\arm_acle.h \
+  E:\keil\installFile\ARM\ARMCLANG\Bin\..\include\arm_compat.h \
+  E:\keil\installFile\ARM\ARMCLANG\Bin\..\include\arm_acle.h \
   ..\periph\CMSIS\mpu_armv7.h \
   ..\periph\CMSIS\GD\GD32F4xx\Include\system_gd32f4xx.h \
   ..\core\inc\gd32f4xx_libopt.h \

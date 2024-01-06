@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=LED_BLUE Pin=U1-61
-Removed Pin From Net: NetName=LED_GREEN Pin=U1-62
-Removed Member From Class: ClassName=w5500 Member=J2
-Added Pin To Net: NetName=LED_GREEN Pin=U1-61
-Added Pin To Net: NetName=LED_BLUE Pin=U1-62
-Added Member To Class: ClassName=w5500 Member=Component J1 RJ45
